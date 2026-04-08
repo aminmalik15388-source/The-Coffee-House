@@ -1,0 +1,9 @@
+﻿Requirement,Implementation
+Branding & Aesthetic,"Warm coffee/cream palette, soft shadows, elegant typography, hero background, cozy imagery"
+Contact Info,"Prominently placed in Location section, header/footer, clickable "tel: link
+Google Maps,Embedded interactive iframe using your exact address. Works out-of-the-box.
+Menu Section,"Clean CSS Grid layout, categorized (Coffee, Alternatives, Bites), pricing in PKR"
+About Us,"Concise brand story, mission statement, high-quality placeholder image"
+Responsive Design,"Mobile-first CSS, hamburger nav, fluid grids, "clamp()" typography, tested breakpoints"
+Call to Action,"Strategic buttons: ""View Menu"", ""Get Directions"", ""Call Now"", ""Pre-Order"""
+SEO Optimization,"Semantic HTML5, JSON-LD Schema ("CafeOrCoffeeShop"), meta description/keywords, Open Graph, proper heading hierarchy, "alt" tags, fast-loading assets"
